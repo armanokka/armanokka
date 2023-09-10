@@ -1,7 +1,14 @@
 ## Me
-18 y.o. middle Golang, junior PHP, junior Fullstack. Besides, guitarist and bodybuilder. My objective is to become a Senior Software Engineer.
+18 y.o. asian from Karakalpakstan.
 
-My Telegram channel: https://t.me/prokachka_ar/
+## Telegram channel
+https://t.me/prokachka_ar/
+
+## Skills
+middle Golang, junior PHP, junior Fullstack. Besides, guitarist and bodybuilder.
+
+## Objective
+My objective is to become a Senior Software Engineer.
 
 ## Education
   - Certificate: Programming in Go (certificate with honors)
