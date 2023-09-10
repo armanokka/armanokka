@@ -18,4 +18,4 @@ My objective is to become a Senior Software Engineer.
   - Bachelor degree: Neural technologies (still getting)
     url_degree: https://abit.itmo.ru/program/bachelor/neurotechnologies
     institution: ITMO university https://itmo.ru/
-    year: 2022
+    year: 2023
