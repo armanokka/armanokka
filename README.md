@@ -1,14 +1,10 @@
 ## Me
-18 y.o. asian from Karakalpakstan.
+I'm 18 y.o. from Karakalpakstan. I moved to the Russia in 2008 to for new opportunities and beautiful nature. Currently I am studying at the ITMO university at the Saint-Petersburg, Russia. I have an idea of travelling to the center of programming world after my graduation.
 
-## Telegram channel
-https://t.me/prokachka_ar/
+My Telegram channel: https://t.me/prokachka_ar/
 
 ## Skills
-middle Golang, junior PHP, junior Fullstack. Besides, guitarist and bodybuilder.
-
-## Objective
-My objective is to become a Senior Software Engineer.
+middle Golang, junior PHP, junior Fullstack.
 
 ## Education
   - Certificate: Programming in Go (certificate with honors)
@@ -19,3 +15,7 @@ My objective is to become a Senior Software Engineer.
     url_degree: https://abit.itmo.ru/program/bachelor/neurotechnologies
     institution: ITMO university https://itmo.ru/
     year: 2023
+  - Worked at: Galactic Union
+    url_company: galacticunion.space
+    job: Middle Software Engineer
+    year: 2022
