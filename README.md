@@ -1,5 +1,5 @@
 ## Me
-I moved to the Russia in 2008 to for new opportunities and gorgeous nature. Currently I am studying at the ITMO university at the Saint-Petersburg, Russia. At the moment have an idea of travelling to the center of programming world after my graduation.
+I'm middle backend developer from Kazakhstan. I moved to the Russia in 2008 to for new opportunities and gorgeous nature. Currently I am studying at the ITMO university at the Saint-Petersburg, Russia. At the moment have an idea of travelling to the center of programming world after my graduation.
 
 ## Skills
   - Middle Golang with 1 year of commercial development experience
