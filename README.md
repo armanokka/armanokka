@@ -34,7 +34,7 @@ I'm Arman Toreniyazov, Software developer focusing on Golang and Java. <img src=
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/goland/goland-original.svg" alt="goland" width="25" height="25" />
 </p>
 
-## 🎓 Education
+<h3>🎓 Education</h3>
 
 - Certificate: Programming in Go (certificate with honors)
   url_certificate: https://stepik.org/cert/1003241/
