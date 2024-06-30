@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Arman Toreniyazov, Software developer focusing on Golang and Java. <img src="https://giphy.com/embed/h5dJapCzKEdZb3BVRI" width="50">
+I'm Arman Toreniyazov, Software developer focusing on Golang and Java. <img src="https://media.giphy.com/media/h5dJapCzKEdZb3BVRI/giphy.gif" width="50">
 
 <br />
 
@@ -47,3 +47,5 @@ I'm Arman Toreniyazov, Software developer focusing on Golang and Java. <img src=
     url_company: galacticunion.space
     job: Middle Software Engineer
     year: 2022
+
+<img  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=armanokka&show_icons=true&theme=tokyonight&icon_color=6392DF&hide=prs" alt="armanokka">
