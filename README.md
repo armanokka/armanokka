@@ -45,9 +45,8 @@ I'm Arman Toreniyazov, Software developer focusing on Golang and Java. <img src=
   job: Middle Software Engineer
   year: 2022
   
-<br />
 
-### <img src="https://cdn.svgporn.com/logos/github-icon.svg" width="50"> Github stats
+### Github stats
 
 <img  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=armanokka&show_icons=true&theme=tokyonight&icon_color=6392DF&hide=prs" alt="armanokka">
 
