@@ -6,10 +6,6 @@ I'm Arman Toreniyazov, Software developer focusing on Golang and Java. <img src=
 
 <br />
 
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=plastic&logo=telegram&logoColor=white&link=https://t.me/armanokka)](https://t.me/armanokka)
-
-<br />
-
 <h3>🚀 Some Tools I Use</h3>
 <p align="left">
 <img src="https://cdn.svgporn.com/logos/go.svg" alt="go" width="25" height="25" />
@@ -54,3 +50,9 @@ I'm Arman Toreniyazov, Software developer focusing on Golang and Java. <img src=
 <br />
 
 <img  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=armanokka&show_icons=true&theme=tokyonight&icon_color=6392DF&hide=prs" alt="armanokka">
+
+<br />
+
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=plastic&logo=telegram&logoColor=white&link=https://t.me/armanokka)](https://t.me/armanokka)
+
+<br />
