@@ -35,17 +35,18 @@ I'm Arman Toreniyazov, Software developer focusing on Golang and Java. <img src=
 </p>
 
 <h3> Education </h3>
-  - Certificate: Programming in Go (certificate with honors)
-    url_certificate: https://stepik.org/cert/1003241/
-    institution: Stepik https://stepik.org/
-    year: 2021
-  - Bachelor degree: Neural technologies (still getting)
-    url_degree: https://abit.itmo.ru/program/bachelor/neurotechnologies
-    institution: ITMO university https://itmo.ru/
-    year: 2023
-  - Worked at: Galactic Union
-    url_company: galacticunion.space
-    job: Middle Software Engineer
-    year: 2022
-
+<br />
+- Certificate: Programming in Go (certificate with honors)
+  url_certificate: https://stepik.org/cert/1003241/
+  institution: Stepik https://stepik.org/
+  year: 2021
+- Bachelor degree: Neural technologies (still getting)
+  url_degree: https://abit.itmo.ru/program/bachelor/neurotechnologies
+  institution: ITMO university https://itmo.ru/
+  year: 2023
+- Worked at: Galactic Union
+  url_company: galacticunion.space
+  job: Middle Software Engineer
+  year: 2022
+<br />
 <img  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=armanokka&show_icons=true&theme=tokyonight&icon_color=6392DF&hide=prs" alt="armanokka">
