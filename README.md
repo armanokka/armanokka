@@ -1,3 +1,5 @@
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
+
 # Hi there 👋
 
 I'm Arman Toreniyazov, Software developer focusing on Golang and Java. <img src="https://media.giphy.com/media/h5dJapCzKEdZb3BVRI/giphy.gif" width="50">
