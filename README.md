@@ -1,11 +1,38 @@
-## Me
-I'm middle backend developer from Kazakhstan. I moved to the Russia in 2008 to for new opportunities and gorgeous nature. Currently I am studying at the ITMO university at the Saint-Petersburg, Russia. At the moment have an idea of travelling to the center of programming world after my graduation.
+# Hi there 👋
 
-## Skills
-  - Middle Golang with 2 years of general experience
-  - Programming since 7th grade, 2019
-  - 6 months React JS background
-  - 1 year PHP background
+I'm Arman Toreniyazov, Software developer focusing on Golang and Java. <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+
+<br />
+
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=plastic&logo=telegram&logoColor=white&link=https://t.me/armanokka)](https://t.me/armanokka)
+
+<br />
+
+<h3>🚀 Some Tools I Use</h3>
+<p align="left">
+<img src="https://cdn.svgporn.com/logos/go.svg" alt="go" width="25" height="25" />
+<img src="https://cdn.svgporn.com/logos/java.svg" alt="java" width="25" height="25" />
+<img src="https://cdn.svgporn.com/logos/docker-icon.svg" alt="docker" width="25" height="25" />
+<img src="https://cdn.svgporn.com/logos/opentelemetry.svg" alt="opentelemetry" width="25" height="25" />
+  
+<img src="https://cdn.svgporn.com/logos/grpc.svg" alt="grpc" width="25" height="25" />
+<img src="https://cdn.svgporn.com/logos/websocket.svg" alt="websocket" width="25" height="25" />
+  
+<img src="https://cdn.svgporn.com/logos/postgresql.svg" alt="postgresql" width="25" height="25" />
+<img src="https://cdn.svgporn.com/logos/mysql.svg" alt="mysql" width="25" height="25" />
+<img src="https://cdn.svgporn.com/logos/mongodb.svg" alt="mongodb" width="25" height="25" />
+<img src="https://cdn.svgporn.com/logos/arangodb.svg" alt="arangodb" width="25" height="25" />
+<img src="https://cdn.svgporn.com/logos/redis.svg" alt="redis" width="25" height="25" />
+<img src="https://cdn.svgporn.com/logos/memcached.svg" alt="memcached" width="25" height="25" />
+  
+<img src="https://cdn.svgporn.com/logos/react.svg" alt="react" width="25" height="25" />
+<img src="https://cdn.svgporn.com/logos/javascript.svg" alt="javascript" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="25" height="25" />
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/goland/goland-original.svg" alt="goland" width="25" height="25" />
+</p>
 
 ## Education
   - Certificate: Programming in Go (certificate with honors)
