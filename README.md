@@ -4,8 +4,6 @@
 
 I'm Arman Toreniyazov, Software developer focusing on Golang and Java. <img src="https://media.giphy.com/media/h5dJapCzKEdZb3BVRI/giphy.gif" width="50">
 
-<br />
-
 <h3>🚀 Some Tools I Use</h3>
 <p align="left">
 <img src="https://cdn.svgporn.com/logos/go.svg" alt="go" width="25" height="25" />
