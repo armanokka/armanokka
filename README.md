@@ -47,7 +47,7 @@ I'm Arman Toreniyazov, Software developer focusing on Golang and Java. <img src=
   
 <br />
 
-### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50"> Github stats
+### <img src="https://cdn.svgporn.com/logos/github-icon.svg" width="50"> Github stats
 
 <img  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=armanokka&show_icons=true&theme=tokyonight&icon_color=6392DF&hide=prs" alt="armanokka">
 
