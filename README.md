@@ -49,7 +49,7 @@ I'm Arman Toreniyazov, Software developer focusing on Golang and Java. <img src=
   codewars_url: https://www.codewars.com/
   
 
-[![Codewars](https://github.r2v.ch/codewars?user=armanokka&stroke=BB432C)](https://github.r2v.ch/codewars?user=armanokka&stroke=BB432C)
+![Codewars](https://www.codewars.com/users/armanokka/badges/large)
 
 <h3>⚡️ Github stats</h3>
 
