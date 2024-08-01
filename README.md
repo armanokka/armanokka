@@ -44,6 +44,9 @@ I'm Arman Toreniyazov, Software developer focusing on Golang and Java. <img src=
   url_company: galacticunion.space
   job: Middle Software Engineer
   year: 2022
+- 5 kyu rank on Codewars
+  profile_url: https://www.codewars.com/users/armanokka
+  codewars_url: https://www.codewars.com/
   
 
 <h3>⚡️ Github stats</h3>
