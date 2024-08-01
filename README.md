@@ -57,8 +57,6 @@ I'm Arman Toreniyazov, Software developer focusing on Golang and Java. <img src=
 
 ![Codewars](https://www.codewars.com/users/armanokka/badges/large)
 
-![Leetcode](https://leetcode.card.workers.dev/armanokka?theme=auto&font=baloo&extension=activity)
-
 <br />
 
 
