@@ -54,6 +54,7 @@ I'm Arman Toreniyazov, Software developer focusing on Golang and Java. <img src=
 <h3>⚡️ Github stats</h3>
 
 <img  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=armanokka&show_icons=true&theme=tokyonight&icon_color=6392DF&hide=prs" alt="armanokka">
+
 ![Codewars](https://www.codewars.com/users/armanokka/badges/large)
 
 <br />
