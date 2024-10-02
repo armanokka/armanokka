@@ -41,7 +41,7 @@ I'm Arman Toreniyazov, Software developer focusing on Golang and Java. <img src=
   institution: ITMO university https://itmo.ru/
   year: 2023
 - Worked at: Galactic Union
-  url_company: galacticunion.space
+  url_company: https://galacticunion.space
   job: Middle Software Engineer
   year: 2022
 - 5 kyu rank on Codewars:
