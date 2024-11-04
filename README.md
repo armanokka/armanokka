@@ -18,4 +18,6 @@
 - WebSocket / Socket.io
 - JWT
 
-![Codewars](https://www.codewars.com/users/armanokka/badges/large)
+![Codewars](https://www.codewars.com/users/armanokka/badges/micro)\
+
+
