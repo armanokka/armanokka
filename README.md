@@ -19,3 +19,4 @@
 - JWT
 
 ![Leetode Stats](https://leetcard.jacoblin.cool/armanokka)
+![Codewars Stats](https://www.codewars.com/users/armanokka/badges/large)
