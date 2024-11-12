@@ -13,10 +13,9 @@
 🌚  Backend:
 - Golang
 - Java
-- Node.JS
-- Express
-- Docker / Docker compose
+- Apache Kafka
 - Redis / Memcached
+- Docker / Docker compose
 - PostgreSQL / MySQL / MongoDB / ArangoDB
 - gRPC / GraphQL (Apollo) / RESTApi / Swagger
 - WebSocket / Socket.io
