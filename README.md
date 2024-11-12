@@ -1,5 +1,9 @@
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
+![Leetode Stats](https://leetcard.jacoblin.cool/armanokka)
+
+![Codewars Stats](https://www.codewars.com/users/armanokka/badges/large)
+
 🌝  Frontend:
 - TypeScript / JavaScript (ES6+)
 - NextJS / ReactJS
@@ -17,7 +21,3 @@
 - gRPC / GraphQL (Apollo) / RESTApi / Swagger
 - WebSocket / Socket.io
 - JWT
-
-![Leetode Stats](https://leetcard.jacoblin.cool/armanokka)
-
-![Codewars Stats](https://www.codewars.com/users/armanokka/badges/large)
