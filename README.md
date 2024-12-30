@@ -1,6 +1,6 @@
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
-![Leetode Stats](https://leetcard.jacoblin.cool/armanokka)
+[![Leetode Stats](https://leetcard.jacoblin.cool/armanokka)](https://leetcode.com/u/armanokka/)
 
 [![Codewars Stats](https://www.codewars.com/users/armanokka/badges/large)](https://www.codewars.com/users/armanokka/)
 
