@@ -20,3 +20,5 @@
 - gRPC / GraphQL (Apollo) / RESTApi / Swagger
 - WebSocket / Socket.io
 - JWT
+
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=plastic&logo=telegram&logoColor=white&link=https://t.me/armanokka)](https://t.me/armanokka)
