@@ -21,4 +21,4 @@
 - WebSocket / Socket.io
 - JWT
 
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=plastic&logo=telegram&logoColor=white&link=https://t.me/armanokka)](https://t.me/armanokka)
+[![Telegram Badge](https://img.shields.io/badge/-t.me/armanokka-blue?style=plastic&logo=telegram&logoColor=white&link=https://t.me/armanokka)](https://t.me/armanokka)
