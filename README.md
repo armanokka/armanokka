@@ -1,4 +1,4 @@
-[![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)](https://http.cat/200)
+[![](https://i.yapx.cc/YUErO.png)](https://github.com/armanokka/)
 
 [![Leetode Stats](https://leetcard.jacoblin.cool/armanokka)](https://leetcode.com/u/armanokka/)
 
