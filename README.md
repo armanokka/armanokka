@@ -1,4 +1,4 @@
-[![](https://i.yapx.cc/YUErO.png)](https://github.com/armanokka/)
+[![](https://github.com/armanokka/armanokka/blob/main/header.png)](https://github.com/armanokka/)
 
 [![Leetode Stats](https://leetcard.jacoblin.cool/armanokka)](https://leetcode.com/u/armanokka/)
 
