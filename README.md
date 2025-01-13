@@ -2,7 +2,7 @@
 
 [![Leetode Stats](https://leetcard.jacoblin.cool/armanokka)](https://leetcode.com/u/armanokka/)
 
-[![Codewars Stats](https://www.codewars.com/users/armanokka/badges/large)](https://www.codewars.com/users/armanokka/)
+[![Codewars Stats](https://www.codewars.com/users/armanokka/badges/micro)](https://www.codewars.com/users/armanokka/)
 
 🌝  Frontend:
 - TypeScript / JavaScript (ES6+)
