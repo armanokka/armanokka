@@ -6,9 +6,9 @@
 
 🌝  Frontend:
 - TypeScript / JavaScript (ES6+)
-- NextJS / ReactJS
-- Redux Toolkit / Redux  
+- NextJS / NestJS / ReactJS
 - SCSS / Tailwind / styled-components
+- Redux / RTK / Effector
 
 🌚  Backend:
 - Golang
