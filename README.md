@@ -1,9 +1,5 @@
 [![](https://github.com/armanokka/armanokka/blob/main/header.png)](https://github.com/armanokka/)
 
-[![Leetode Stats](https://leetcard.jacoblin.cool/armanokka)](https://leetcode.com/u/armanokka/)
-
-[![Codewars Stats](https://www.codewars.com/users/armanokka/badges/micro)](https://www.codewars.com/users/armanokka/)
-
 🌚  Backend:
 - Languages: Go, Java
 - Message brokers: Apache Kafka
@@ -19,5 +15,9 @@
 - Frameworks: NextJS, NestJS, ReactJS
 - Styling: Tailwind, SCSS, styled-components
 - State management: Redux, RTK,  Effector
+
+[![Leetode Stats](https://leetcard.jacoblin.cool/armanokka)](https://leetcode.com/u/armanokka/)
+
+[![Codewars Stats](https://www.codewars.com/users/armanokka/badges/micro)](https://www.codewars.com/users/armanokka/)
 
 [![Telegram Badge](https://img.shields.io/badge/-t.me/armanokka-blue?style=plastic&logo=telegram&logoColor=white&link=https://t.me/armanokka)](https://t.me/armanokka)
