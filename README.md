@@ -4,8 +4,8 @@
 - Languages: Go, Java
 - Message brokers: Apache Kafka
 - In-memory Data Stores: Redis / Memcached
-- Databases: PostgreSQL, MongoDB, ArangoDB
 - Infrastructure as code: Helm, Ansible, CI/CD
+- Databases: PostgreSQL, MongoDB, ArangoDB
 - Monitoring & Observability: Prometheus, Grafana, Alerting
 - API & Communication: gRPC, GraphQL, REST, Swagger, WebSocket
 - Containerization & Orchestration: Kubernetes, Docker, Docker-compose
