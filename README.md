@@ -15,7 +15,8 @@
 - Styling: Tailwind, SCSS, styled-components
 - State management: Redux, RTK,  Effector
 - Frameworks: NextJS, NestJS, ReactJS
-- 
+
+
 [![Leetode Stats](https://leetcard.jacoblin.cool/armanokka)](https://leetcode.com/u/armanokka/)
 
 [![Codewars Stats](https://www.codewars.com/users/armanokka/badges/micro)](https://www.codewars.com/users/armanokka/)
