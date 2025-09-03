@@ -4,21 +4,20 @@
 
 [![Codewars Stats](https://www.codewars.com/users/armanokka/badges/micro)](https://www.codewars.com/users/armanokka/)
 
-🌝  Frontend:
-- TypeScript / JavaScript (ES6+)
-- NextJS / NestJS / ReactJS
-- SCSS / Tailwind / styled-components
-- Redux / RTK / Effector
-
 🌚  Backend:
-- Golang
-- Java
-- Apache Kafka
-- Redis / Memcached
-- Docker / Docker compose
-- PostgreSQL / MySQL / MongoDB / ArangoDB
-- gRPC / GraphQL (Apollo) / RESTApi / Swagger
-- WebSocket / Socket.io
-- JWT
+- Languages: Go, Java
+- Message brokers: Apache Kafka
+- Databases: PostgreSQL, MongoDB, ArangoDB
+- In-memory Data Stores: Redis / Memcached
+- Infrastructure as code: Helm, Ansible, CI/CD
+- Monitoring & Observability: Prometheus, Grafana, Alerting
+- API & Communication: gRPC, GraphQL, REST, Swagger, WebSocket
+- Containerization & Orchestration: Kubernetes, Docker, Docker-compose
+
+🌝  Frontend:
+- Languages: TypeScript, JavaScript (ES6+)
+- Frameworks: NextJS, NestJS, ReactJS
+- Styling: Tailwind, SCSS, styled-components
+- State management: Redux, RTK,  Effector
 
 [![Telegram Badge](https://img.shields.io/badge/-t.me/armanokka-blue?style=plastic&logo=telegram&logoColor=white&link=https://t.me/armanokka)](https://t.me/armanokka)
