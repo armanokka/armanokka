@@ -3,8 +3,8 @@
 🌚  Backend:
 - Languages: Go, Java
 - Message brokers: Apache Kafka
-- Databases: PostgreSQL, MongoDB, ArangoDB
 - In-memory Data Stores: Redis / Memcached
+- Databases: PostgreSQL, MongoDB, ArangoDB
 - Infrastructure as code: Helm, Ansible, CI/CD
 - Monitoring & Observability: Prometheus, Grafana, Alerting
 - API & Communication: gRPC, GraphQL, REST, Swagger, WebSocket
